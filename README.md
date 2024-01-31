@@ -40,5 +40,5 @@ This project only uses the following libraries:
 
 ## Advanced Feature
 
-An additional feature involves cropping the image content within an overlaid frame consisting of two intersecting ellipses:
+An additional feature involves cropping the image content within an overlaid frame consisting of two intersecting ellipses:  
 ![math10](https://github.com/NhanIsCoding/ImageProcessingByPython/assets/110398178/efd56382-418f-41a2-823d-695a878fe58c)
